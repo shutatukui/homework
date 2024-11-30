@@ -1,4 +1,4 @@
-# homework
+# homework [![test](https://github.com/shutatukui/homework/actions/workflows/test.yml/badge.svg)](https://github.com/shutatukui/homework/actions/workflows/test.yml)
 # 作ったプログラムの内容
 世界標準時間(UTC)、日本(東京)、アメリカ(ニューヨーク)の現在時刻、東京証券取引所の開閉場時間、ニューヨーク証券取引所の開閉場時間の5つを表示する
 
