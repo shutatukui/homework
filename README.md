@@ -11,26 +11,26 @@
 
 
 # pytzライブラリ
-  各国のタイムゾーンを把握、扱うためのライブラリ
+  - 各国のタイムゾーンを把握、扱うためのライブラリ
 
 
 # 使用方法
 - この方法は``` pip ```を使って``` pytz ```をインストールします
  
  
- ``` pip ```はPythonのパッケージ管理システムです
+　　``` pip ```はPythonのパッケージ管理システムです
 
  
-  最初に、ホームで下記を実行してください
+  　　最初に、ホームで下記を実行してください
 
 
-  sudoのパスワードを聞かれた場合、パスワードを入力すれば次に進めます
+ 　　 sudoのパスワードを聞かれた場合、パスワードを入力すれば次に進めます
 
 
     
  　　　　　　　　　
 
- ``` sudo apt install python3-pip ```
+　　 ``` sudo apt install python3-pip ```
 
 
    　　　　　　　
@@ -48,13 +48,13 @@
   　　　
 
 
-``` pip3 install pytz ```
+　　``` pip3 install pytz ```
 
 
 　  　　
  
 
-これで``` pytz ```がインストールできます
+　　これで``` pytz ```がインストールできます
 
 
 # 使用例
@@ -74,22 +74,32 @@
 ```
 
 
+# 必要なソフトウェア
+  - python 3.7 ~ 3.10
+
+    
 # テスト環境　
-  - python 3.8.10
+  - python 3.7 ~ 3.10
   - ubuntu 22.04.5
 
 
 # 参考にした文献
-　- [5分でマスター] 初心者はまずREADMEを書け [テンプレート付き]　https://qiita.com/Canard_engineer_c_cpp/items/81ce4e53881138dbf37f
+  - [[5分でマスター] 初心者はまずREADMEを書け [テンプレート付き]](https://qiita.com/Canard_engineer_c_cpp/items/81ce4e53881138dbf37f)
 
 
-  - pytzを使ってpythonでタイムゾーンを扱う"正しい"方法　https://qiita.com/non_cal/items/2927fbdfa1d1f355b89d
+  - [pytzを使ってpythonでタイムゾーンを扱う"正しい"方法](https://qiita.com/non_cal/items/2927fbdfa1d1f355b89d)
 
 
 # ライセンス関係
 
 
   - ```pytz```ライブラリのライセンス　MIT license
+
+
+    - 著作権者　Stuart Bishop
+
+
+    - リリース日: 2024年9月11日
 
 
   - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可される
